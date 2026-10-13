@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Grant-Management-Software?color=gold&style=flat-square" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Grant-Management-Software?color=blue&style=flat-square" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Grant-Management-Software?color=gold&style=flat-square" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Grant-Management-Software?color=blue&style=flat-square" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-Grant-Management-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <h1 align="center">🌟 Awesome Grant Management Software 🌟</h1>
@@ -78,81 +78,81 @@ The table below lists top commercial SaaS grant management systems sorted in **d
 
 Open-source grant management tools and funding frameworks enable complete data sovereignty, custom audit workflows, self-hosted deployment, and zero vendor lock-in.
 
-The repositories below are **sorted in descending order by GitHub star count**. Each project includes a real-time star badge linking directly to its GitHub stargazers page.
+The repositories below are **sorted in descending order by GitHub Stars_Count**. Each project includes a real-time Stars_Badge linking directly to its GitHub stargazers page.
 
-1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *Extensible open-source enterprise suite with nonprofit modules, project accounting, donor CRM, and grant milestone tracking.*  
    - **Stack**: Python, JavaScript, PostgreSQL  
    - **License**: LGPL-3.0  
    - **Highlights**: Modular architecture allows configuring custom grant intake pipelines, expense approvals, and financial disbursements connected directly to double-entry accounting.
 
-2. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+2. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    *Open-source business intelligence and data visualization platform for grant reporting and funding transparency.*  
    - **Stack**: Clojure, TypeScript, React  
    - **License**: AGPL-3.0  
    - **Highlights**: Connects instantly to self-hosted grant databases to generate public transparency portals, funding heatmaps, demographic distribution charts, and post-award audit reports.
 
-3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Comprehensive open-source ERP system featuring a dedicated Non-Profit module for grant management and fund accounting.*  
    - **Stack**: Python (Frappe Framework), MariaDB, JavaScript  
    - **License**: GPL-3.0  
    - **Highlights**: Features native tracking for Grant Applications, Grant Accounting, Volunteer Management, Donor Relationships, and multi-currency bank disbursements.
 
-4. **[AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)** [![GitHub stars](https://img.shields.io/github/stars/eseckel/ai-for-grant-writing?style=social&color=white)](https://github.com/eseckel/ai-for-grant-writing/stargazers)  
+4. **[AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)** [![GitHub_Stars](https://img.shields.io/github/stars/eseckel/ai-for-grant-writing?style=social&color=white)](https://github.com/eseckel/ai-for-grant-writing/stargazers)  
    *Curated open-source toolkit and prompt engineering framework for leveraging LLMs to draft, optimize, and review grant applications.*  
    - **Stack**: Python, Markdown, Prompt Templates  
    - **License**: MIT  
    - **Highlights**: Accelerates grant writing workflows, automates alignment against funding rubrics, and streamlines proposal synthesis for research teams and non-profit leaders.
 
-5. **[CiviCRM Core](https://github.com/civicrm/civicrm-core)** [![GitHub stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
+5. **[CiviCRM Core](https://github.com/civicrm/civicrm-core)** [![GitHub_Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
    *The gold-standard open-source CRM for the civic and philanthropic sector with built-in CiviGrant functionality.*  
    - **Stack**: PHP, MySQL, CMS Integrations (WordPress, Drupal, Joomla)  
    - **License**: AGPL-3.0  
    - **Highlights**: Natively manages inbound and outbound grant pipelines, committee scoring, reviewer communications, multi-tranche payments, and donor tracking across 20+ languages.
 
-6. **[Giveth DApp](https://github.com/Giveth/giveth-dapp)** [![GitHub stars](https://img.shields.io/github/stars/Giveth/giveth-dapp?style=social&color=white)](https://github.com/Giveth/giveth-dapp/stargazers)  
+6. **[Giveth DApp](https://github.com/Giveth/giveth-dapp)** [![GitHub_Stars](https://img.shields.io/github/stars/Giveth/giveth-dapp?style=social&color=white)](https://github.com/Giveth/giveth-dapp/stargazers)  
    *Decentralized, open-source philanthropy platform facilitating direct grant distribution and community matching.*  
    - **Stack**: TypeScript, React, Next.js, Smart Contracts  
    - **License**: GPL-3.0  
    - **Highlights**: Enables zero-fee donation flows, quadratic funding rounds, verifiable project milestone verifications, and transparent on-chain funding disbursements.
 
-7. **[Gitcoin Grants Stack](https://github.com/gitcoinco/grants-stack)** [![GitHub stars](https://img.shields.io/github/stars/gitcoinco/grants-stack?style=social&color=white)](https://github.com/gitcoinco/grants-stack/stargazers)  
+7. **[Gitcoin Grants Stack](https://github.com/gitcoinco/grants-stack)** [![GitHub_Stars](https://img.shields.io/github/stars/gitcoinco/grants-stack?style=social&color=white)](https://github.com/gitcoinco/grants-stack/stargazers)  
    *Modular open-source suite designed for community grant rounds, quadratic funding, and direct capital allocations.*  
    - **Stack**: TypeScript, GraphQL, Solidity, React  
    - **License**: AGPL-3.0  
    - **Highlights**: Provides end-to-end tooling to launch custom grant programs: round management, applicant screening, community voting, and sybil-resistant disbursement mechanics.
 
-8. **[ogrants](https://github.com/weecology/ogrants)** [![GitHub stars](https://img.shields.io/github/stars/weecology/ogrants?style=social&color=white)](https://github.com/weecology/ogrants/stargazers)  
+8. **[ogrants](https://github.com/weecology/ogrants)** [![GitHub_Stars](https://img.shields.io/github/stars/weecology/ogrants?style=social&color=white)](https://github.com/weecology/ogrants/stargazers)  
    *Open repository and public index of successfully funded scientific and academic research grant proposals.*  
    - **Stack**: Markdown, Jekyll, GitHub Pages  
    - **License**: CC-BY-4.0  
    - **Highlights**: Promotes transparent grantmaking standards by archiving actual proposals, budget narratives, and evaluation outcomes from major funders (NSF, NIH, and foundations).
 
-9. **[LibreSelery](https://github.com/protontypes/LibreSelery)** [![GitHub stars](https://img.shields.io/github/stars/protontypes/LibreSelery?style=social&color=white)](https://github.com/protontypes/LibreSelery/stargazers)  
+9. **[LibreSelery](https://github.com/protontypes/LibreSelery)** [![GitHub_Stars](https://img.shields.io/github/stars/protontypes/LibreSelery?style=social&color=white)](https://github.com/protontypes/LibreSelery/stargazers)  
    *Automated grant and financial distribution tool for project contributors and upstream open-source dependencies.*  
    - **Stack**: Python, GitHub Actions  
    - **License**: GPL-3.0  
    - **Highlights**: Programmatically routes micro-grants and funding shares directly to code contributors and software dependencies based on auditable contribution metrics.
 
-10. **[Gandhi](https://github.com/mike-marcacci/gandhi)** [![GitHub stars](https://img.shields.io/github/stars/mike-marcacci/gandhi?style=social&color=white)](https://github.com/mike-marcacci/gandhi/stargazers)  
+10. **[Gandhi](https://github.com/mike-marcacci/gandhi)** [![GitHub_Stars](https://img.shields.io/github/stars/mike-marcacci/gandhi?style=social&color=white)](https://github.com/mike-marcacci/gandhi/stargazers)  
     *Self-hosted web application for nonprofit online grant applications and committee scoring.*  
     - **Stack**: JavaScript, Node.js, MongoDB  
     - **License**: AGPL-3.0  
     - **Highlights**: Lightweight online grant management solution designed for community foundations seeking self-contained application intake and scoring workflows.
 
-11. **[HHS Simpler Grants Protocol](https://github.com/HHS/simpler-grants-protocol)** [![GitHub stars](https://img.shields.io/github/stars/HHS/simpler-grants-protocol?style=social&color=white)](https://github.com/HHS/simpler-grants-protocol/stargazers)  
+11. **[HHS Simpler Grants Protocol](https://github.com/HHS/simpler-grants-protocol)** [![GitHub_Stars](https://img.shields.io/github/stars/HHS/simpler-grants-protocol?style=social&color=white)](https://github.com/HHS/simpler-grants-protocol/stargazers)  
     *U.S. Department of Health and Human Services (HHS) open data protocol and common schemas for the grant ecosystem.*  
     - **Stack**: JSON Schema, Documentation, Open API  
     - **License**: CC0-1.0 (Public Domain)  
     - **Highlights**: Standardizes data interoperability between grantmakers, government agencies, and recipient accounting systems to reduce administrative compliance burdens.
 
-12. **[OpenEMIS Core](https://github.com/OpenEMIS/core)** [![GitHub stars](https://img.shields.io/github/stars/OpenEMIS/core?style=social&color=white)](https://github.com/OpenEMIS/core/stargazers)  
+12. **[OpenEMIS Core](https://github.com/OpenEMIS/core)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenEMIS/core?style=social&color=white)](https://github.com/OpenEMIS/core/stargazers)  
     *Open-source Education Management Information System with funding and institutional grant tracking modules.*  
     - **Stack**: PHP, CakePHP, MySQL, JavaScript  
     - **License**: GPL-3.0  
     - **Highlights**: Widely adopted by national education ministries and NGOs to allocate and audit institutional grants and educational development funding.
 
-13. **[Grantzilla](https://github.com/on-site/grantzilla)** [![GitHub stars](https://img.shields.io/github/stars/on-site/grantzilla?style=social&color=white)](https://github.com/on-site/grantzilla/stargazers)  
+13. **[Grantzilla](https://github.com/on-site/grantzilla)** [![GitHub_Stars](https://img.shields.io/github/stars/on-site/grantzilla?style=social&color=white)](https://github.com/on-site/grantzilla/stargazers)  
     *Clean and lightweight grant application management and review web application.*  
     - **Stack**: Ruby on Rails, PostgreSQL  
     - **License**: MIT  
@@ -201,7 +201,7 @@ Contributions from grantmakers, researchers, developers, and nonprofit professio
 1. **Fork** this repository.
 2. **Add or update** entries in `README.md` following the existing format:
    - For SaaS: Include platform name, company size (revenue/valuation), specific starting price, specific free trial/plan limits, key features, and link.
-   - For Open Source: Include repository link, star badge, technology stack, license, and brief description.
+   - For Open Source: Include repository link, Stars_Badge, technology stack, license, and brief description.
 3. Keep descriptions factual, unbiased, and verified against official sources.
 4. **Submit a Pull Request (PR)** with a clear description of your additions.
 
